@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <br><br>
   <samp>
  Currently persuing my Batchelors degree from <a href="https://nitdgp.ac.in/">NIT Durgapur</a>  :school:  and aspiring Software Developer and a programming enthusiast :computer:. I 🧡 to read fiction and play Guitar.  
+    <br/>
     You can know more about me here -> https://nikcoder01.github.io/About-Me/
   </samp>
 </p>
