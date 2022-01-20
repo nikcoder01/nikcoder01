@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width=100>
   <br><br>
   <samp>
- Currently persuing my Batchelors degree from <a href="https://nitdgp.ac.in/">NIT Durgapur</a>  :school:  and aspiring Software Developer and a programming enthusiast :computer:. I 🧡 to read fiction and play Guitar.  
+ Currently persuing my Batchelors degree from <a href="https://nitdgp.ac.in/">NIT Durgapur</a> ,I'm an aspiring Software Developer and a programming enthusiast :computer:. I 🧡 to read fiction and play Guitar.  
     <br/>
     You can know more about me here -> https://nikcoder01.github.io/About-Me/
   </samp>
